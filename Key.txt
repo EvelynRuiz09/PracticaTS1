@@ -1,0 +1,6 @@
+@echo off
+echo.
+echo nummero de serie:
+18330496
+echo.
+pause
